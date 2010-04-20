@@ -1,5 +1,7 @@
 class CountdownController < ApplicationController
   def index
-    render :text => Time.now.to_i + 10
+    now = Time.now.to_i 
+    nextMinute = 60 - now % 60
+    render :text => now + nextMinute
   end
 end
