@@ -7,5 +7,6 @@ class UploadController < ApplicationController
       render :text => "s3 url"
     else
       render :text => "failed"
+    end
   end
 end
