@@ -9,4 +9,8 @@ class UploadController < ApplicationController
       render :text => "failed"
     end
   end
+  
+  def target
+    render :text =>"http://iphone.zcentric.com/test-upload.php"
+  end
 end
