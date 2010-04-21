@@ -1,6 +1,5 @@
 class UploadController < ApplicationController
-  require 'rubygems'
-  require 'aws-s3'
+  require 'aws/s3'
   def post
     if(attachment = request.body.read)
       # upload it to S3
