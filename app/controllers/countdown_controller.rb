@@ -8,7 +8,7 @@ class CountdownController < ApplicationController
     # ref = message["Reference Timestamp"]
     ref = Time.now.to_i
     ref = ref.floor
-    render :text => 10 - (ref % 10)
+    render :text => 60 - (ref % 60)
   end
   
   protected
