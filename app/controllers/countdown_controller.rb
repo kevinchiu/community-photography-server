@@ -1,5 +1,5 @@
-require "ntp"
-include NET
+# require "ntp"
+# include NET
 
 class CountdownController < ApplicationController
   def index
