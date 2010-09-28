@@ -1,0 +1,395 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-20 03:01:59) [GET]
+
+ActionController::RoutingError (No route matches "/countdown" with {:method=>:get}):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-20 03:02:09) [GET]
+
+ActionController::RoutingError (No route matches "/countdown/idnex" with {:method=>:get}):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-20 03:02:13) [GET]
+
+ActionController::RoutingError (No route matches "/countdown/index" with {:method=>:get}):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-20 03:02:24) [GET]
+
+ActionController::RoutingError (No route matches "/countdown/1" with {:method=>:get}):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-20 03:02:30) [GET]
+
+ActionController::RoutingError (No route matches "/countdown/index/1" with {:method=>:get}):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:03:52) [GET]
+  Parameters: {"id"=>"1"}
+
+ActionView::MissingTemplate (Missing template countdown/index.erb in view path app/views):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:03:56) [GET]
+
+ActionView::MissingTemplate (Missing template countdown/index.erb in view path app/views):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:05:33) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown/index]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:05:35) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/countdown/index]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:05:36) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/countdown/index]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:05:41) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:05:42) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:23:39) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:23:45) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:23:47) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:23:49) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:23:52) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:23:54) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:23:56) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:23:58) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-20 03:24:01) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:53:35) [GET]
+
+NameError (uninitialized constant NET):
+  /Library/Ruby/Gems/1.8/gems/aws-s3-0.6.2/lib/aws/s3/extensions.rb:206:in `const_missing'
+  app/controllers/countdown_controller.rb:1
+  /Library/Ruby/Gems/1.8/gems/aws-s3-0.6.2/lib/aws/s3/extensions.rb:206:in `const_missing'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (34.0ms)
+Rendered rescues/_request_and_response (1.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:54:29) [GET]
+
+TypeError (can't convert Module into String):
+  app/controllers/countdown_controller.rb:2
+  /Library/Ruby/Gems/1.8/gems/aws-s3-0.6.2/lib/aws/s3/extensions.rb:206:in `const_missing'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (34.3ms)
+Rendered rescues/_request_and_response (1.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:56:55) [GET]
+
+NameError (uninitialized constant NET):
+  /Library/Ruby/Gems/1.8/gems/aws-s3-0.6.2/lib/aws/s3/extensions.rb:206:in `const_missing'
+  app/controllers/countdown_controller.rb:1
+  /Library/Ruby/Gems/1.8/gems/aws-s3-0.6.2/lib/aws/s3/extensions.rb:206:in `const_missing'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (36.9ms)
+Rendered rescues/_request_and_response (1.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 17:57:30) [GET]
+Completed in 58400ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 17:58:35) [GET]
+Completed in 30096ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 17:59:05) [GET]
+Completed in 30097ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 17:59:35) [GET]
+Completed in 30129ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:01:58) [GET]
+Completed in 132ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:02:02) [GET]
+Completed in 66ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:08:41) [GET]
+Completed in 109ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:08:42) [GET]
+Completed in 70ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:08:44) [GET]
+Completed in 78ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:08:45) [GET]
+Completed in 152ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:08:47) [GET]
+Completed in 56ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:08:48) [GET]
+Completed in 217ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:08:50) [GET]
+Completed in 82ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:08:51) [GET]
+Completed in 45ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:08:52) [GET]
+Completed in 208ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:08:53) [GET]
+Completed in 58ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:08:54) [GET]
+
+Timeout::Error (execution expired):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/timeout.rb:60:in `get_ntp_response'
+  ntp (1.0.0) lib/ntp.rb:113:in `get_ntp_response'
+  app/controllers/countdown_controller.rb:7:in `index'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (33.7ms)
+Rendered rescues/_request_and_response (1.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:09:54) [GET]
+Completed in 75ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:13:46) [GET]
+Completed in 74ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:13:48) [GET]
+Completed in 200ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:13:50) [GET]
+Completed in 87ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:13:52) [GET]
+Completed in 109ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:13:54) [GET]
+Completed in 73ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:26:17) [GET]
+Completed in 64ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:26:19) [GET]
+Completed in 62ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:26:20) [GET]
+Completed in 60ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:26:22) [GET]
+Completed in 67ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:26:26) [GET]
+Completed in 60ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:26:31) [GET]
+Completed in 60ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:26:39) [GET]
+Completed in 61ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:26:42) [GET]
+Completed in 59ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:33:33) [GET]
+Completed in 61ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:33:40) [GET]
+Completed in 60ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
+
+
+Processing CountdownController#index (for 127.0.0.1 at 2010-04-27 18:34:27) [GET]
+Completed in 75ms (View: 1, DB: 0) | 200 OK [http://localhost/countdown]
